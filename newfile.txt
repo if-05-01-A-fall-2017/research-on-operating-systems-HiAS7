@@ -1,0 +1,13 @@
+Chrome OS is an operating system designed by Google, that uses Google Chrome as its principal user interface.
+Its main focus therefore is supporting web applications.
+The basic idea of Chrome OS is easily using web applications, for example Google Mail or Google Drive.
+This approach is opposed to the classic approach of native applications, which are locally installed and
+can be used offline. For this reason, Chrome OS always needs an internet connection to work, 
+making it primarily suitable for netbooks. Netbooks running Chrome OS are called Chromebooks.
+There are also the Chromebox, which is a desktop-PC running Chrome OS, the Chromebase, which is basically
+an all-in-one-PC running Chrome OS and the Chromebit, which is a HDMI dongle, that turns a monitor or television set 
+into a personal computer.
+Over the years, Chrome OS got an integrated mediaplayer and an integrated file manager, as well as
+Chrome Apps and Android applications, which partly eliminate the need for a constant internet connection.
+The main appeal of Chrome OS, that it is a very lightweight operating system, which will start in under seven seconds.
+Other advantages are, that Chromebooks tend to be rather inexpensive.
